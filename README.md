@@ -3,5 +3,6 @@ This repository contains data analysis using SQL code and drawing insights from 
 It includes various SQL techniques like using CTE and recursive CTE to get the desired output.
 
 Database and Tools
+</br>
 Postgre SQL
 PgAdmin4
