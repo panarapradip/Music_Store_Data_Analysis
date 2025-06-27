@@ -3,6 +3,7 @@ This project is about music data store and contains data analysis using SQL code
 It includes various SQL techniques like using CTE and recursive CTE to get the desired output.
 
 > Database and Tools
+</br>
 Postgre SQL
 </br>
 PgAdmin4
